@@ -1,0 +1,2 @@
+# typechain
+practice typescript
